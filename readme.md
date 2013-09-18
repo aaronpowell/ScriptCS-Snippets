@@ -1,1 +1,1 @@
-A collection of code snippets for [ScriptCS](http://scriptcs.net), inspired by the snippets from Visual Studio
+These are now part of the official [ScriptCS Sublime Package](https://github.com/scriptcs/scriptcs-sublime).
