@@ -1,6 +1,8 @@
 <snippet>
     <content><![CDATA[
-using ${1};
+using (var ${1:x} = ${2:new Disposable()}) {
+    
+}
 ]]></content>
     <tabTrigger>using</tabTrigger>
     <scope>source.csx</scope>
