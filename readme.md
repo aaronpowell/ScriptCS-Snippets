@@ -1,0 +1,1 @@
+A collection of code snippets for [ScriptCS](http://scriptcs.net), inspired by the snippets from Visual Studio
